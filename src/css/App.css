@@ -1,0 +1,9 @@
+.app {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    background-color: #000;
+    height: 100vh;
+}
